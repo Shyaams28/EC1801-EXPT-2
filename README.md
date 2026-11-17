@@ -78,9 +78,9 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-17 at 2 07 49 PM" src="https://github.com/user-attachments/assets/b6044fb8-3796-4d9e-9901-809ac64db837" />
 
 
- 
 # Viva-Voce Questions
 
 •	What is a logic gate?
